@@ -1,6 +1,6 @@
 <center>
 <h>UNBANED</h>
-
+</center>
 pkg update 
 pkg install git
 
